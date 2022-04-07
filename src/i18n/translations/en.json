@@ -1,0 +1,96 @@
+{
+  "footer": {
+    "legal": "LEGAL",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms & Conditions",
+    "faq": "FAQ",
+    "socials": "Socials",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "Linkedin",
+    "get_in_touch": "Get in Touch",
+    "copyright": "Copyright © Easypanda.com 2022 | All rights reserved."
+  },
+  "actions": {
+    "register_as_provider": "Register as Service Provider"
+  },
+  "header_spans": {
+    "about": "About Us",
+    "geography": "Baltic countries",
+    "order": "How it works?",
+    "random": "How to used?"
+  },
+  "header_titles": {
+    "about": "We are here to make your life better",
+    "blog": "Our Blog",
+    "download": "Discover and book services with Easy Panda",
+    "geography": "Easy Panda is the first home service platform that works in all Baltic countries",
+    "order": "How to order",
+    "providers": "Do more, think less. Haven't registered yet?",
+    "random": "Easy Panda makes bookings more transparent and safe.",
+    "services": "Services"
+  },
+  "header_paragraphs": {
+    "about": "Nowadays everything we want to know is just a few clicks away. However, when it comes to finding quality services near our home we usually feel stuck and helpless spending hours on the internet and asking around for advice. Not to mention that it might not be possible to get the services in a convenient and time-saving way. To solve this we created Easy Panda, an easy and reliable way to take care of your home.",
+    "download": "You are not only saving the time that would have been wasted on browsing through the web, you also discover already verified service providers with transparent pricing and availability, all with just a few clicks.",
+    "geography1": "Our goal is to deliver our services to every household within the reach of fingertips, so that you can relax and spend your time on things that really matter in life.",
+    "geography2": "Turn on location services and see if we are available in your city. Open Easy Panda and see what services you can get near you. If you want to see us in your city, please let us know about that or follow us on social media to know the latest public announcements and news.",
+    "order": "Finding the right service provider is completely free on Easy Panda. If you have some work to be done, then just choose a service category that fits your need.",
+    "providers": "Your business needs more. To help you to get more customers and keep everything in order we offer a mobile solution and web admin to manage all your bookings, payments, invoices and employees.",
+    "random": "We provide full transparency and safety during the booking process: *Price is calculated automatically *All our services are insured and with guarantee*Service providers are verified and ID checked*Payments are digital and refundable"
+  },
+  "blog": {
+    "blog_post_first": {
+      "title": "How to clean a top loading washing machine?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    },
+    "blog_post_second": {
+      "title": "Smoke Detectors - How to Choose and Install?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    },
+    "blog_post_fifth": {
+      "title": "Should you repair or replace an appliance?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    }
+  },
+  "labels": {
+    "success_stories": "Success Stories",
+    "articles": "Articles"
+  },
+  "hero": {
+    "title": "The easiest way to get",
+    "title_span": "quality services",
+    "description": "Need a help around your home? Download the app and book home services with Easy Panda."
+  },
+  "order_list": {
+    "booking_service": {
+      "title": "Book a service",
+      "description": "Choose a service category and go through the service booking process."
+    },
+    "know_the_price": {
+      "title": "Know the price",
+      "description": "Service provider will evaluate your booking and send a price proposal, remotely or on site."
+    },
+    "pick_a_service_provider": {
+      "title": "Pick a service provider",
+      "description": "Select the service provider that suits you best and initiate a further communication."
+    },
+    "play_securely": {
+      "title": "Pay securely",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    },
+    "recieve_rate_service": {
+      "title": "Receive & rate the service",
+      "description": "Receive a service and rate your experience once the booking is completed."
+    }
+  },
+  "services_list": {
+    "cleaning": "Cleaning",
+    "furniture_assembly": "Furniture assembly",
+    "window_repair": "Repair work",
+    "plumbing": "Plumbing",
+    "ventilation_conditioning": "Home appliences",
+    "electricity": "Electricity",
+    "household_appliances": "Household appliances"
+  }
+}

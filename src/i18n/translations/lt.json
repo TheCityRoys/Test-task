@@ -1,0 +1,96 @@
+{
+  "footer": {
+    "legal": "Teisinė informacija",
+    "privacy_policy": "Privatumo politika",
+    "terms_conditions": "Sąlygos ir Nuostatos",
+    "faq": "D.U.K",
+    "socials": "Socialiniai tinklai",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "Linkedin",
+    "get_in_touch": "Susisiekite",
+    "copyright": "Copyright © Easypanda.com 2022 | All rights reserved."
+  },
+  "actions": {
+    "register_as_provider": "Registruotis kaip paslaugos teikėjas"
+  },
+  "header_spans": {
+    "about": "About Us",
+    "geography": "Baltic countries",
+    "order": "How it works?",
+    "random": "How it works?"
+  },
+  "header_titles": {
+    "about": "Mes čia tam, kad palengvintumėme jūsų gyvenimą.",
+    "blog": "Mūsų tinklaraštis",
+    "download": "Atraskite ir užsisakykite paslaugas naudodami EasyPanda",
+    "geography": "Easy Panda – pirmoji namų paslaugų platforma, veikianti visose Baltijos šalyse",
+    "order": "Kaip užsisakyti",
+    "providers": "Daugiau darbų, mažiau galvos skausmo. Prisiregistruokite!",
+    "random": "Easy Panda daro užsakymus skaidresnius ir saugesnius.",
+    "services": "Paslaugos"
+  },
+  "header_paragraphs": {
+    "about": "Šiais laikais viskas, ką norime sužinoti, yra nutolę per kelis paspaudimus. Tačiau kai norime rasti kokybiškas paslaugas netoli savo namų, dažniausiai jaučiamės įstrigę ir bejėgiai - praleidžiame valandas internete ir ieškome patarimo. Jau nekalbant apie tai, kad paslaugos gali būti ir neįmanoma gauti patogiu sau laiku. Norėdami tai išspręsti, sukūrėme Easy Panda – paprastą ir patikimą būdą rūpintis savo namais.",
+    "download": "Jūs ne tik sutaupote laiką, kurį būtumėte sugaišę naršant internete, bet ir vos keliais paspaudimais atrandate jau patikrintus paslaugų teikėjus su skaidriomis kainomis ir prieinamumu.",
+    "geography1": "Mūsų tikslas – teikti ranka pasiekiamas paslaugas kiekvienam namų ūkiui, kad galėtumėte atsipalaiduoti ir skirti laiką svarbesniems gyvenimo įvykiams. ",
+    "geography2": "Įjunkite vietos nustatymo funkciją ir pažiūrėkite, ar mes pasiekiami jūsų mieste. Atidarykite „Easy Panda“ ir sužinokite, kokias paslaugas teikiame šalia jūsų.\nJei norite mus pamatyti savo mieste, praneškite mums apie tai arba sekite mus socialiniuose tinkluose, kad sužinotumėte naujausius viešus pranešimus ir naujienas.",
+    "order": "Rasti tinkama paslaugų teikėja su Easy Panda nieko nekainuoja. Jeigu turite užduotį kurią norite atlikti, tiesiog pasirinkite paslaugos kategoriją, kuri atitinka jūsų poreikius.",
+    "providers": "Jūsų verslui vertas daugiau. Siekdami padėti jums pritraukti daugiau klientų ir išlaikyti sistemingą tvarką, siūlome mobilųjį sprendimą ir administravimo įrankį, kuris padės valdyti visus jūsų užsakymus, mokėjimus, sąskaitas faktūras ir darbuotojus.",
+    "random": "Užsakymo metu užtikriname visišką skaidrumą ir saugumą: \n* Kaina skaičiuojama automatiškai\n* Paslaugos yra apdraustos ir su garantija"
+  },
+  "blog": {
+    "blog_post_first": {
+      "title": "How to clean a top loading washing machine?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    },
+    "blog_post_second": {
+      "title": "Smoke Detectors - How to Choose and Install?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    },
+    "blog_post_fifth": {
+      "title": "Should you repair or replace an appliance?",
+      "description": "Pay with hassle-free payment that is protected with money-back guarantee."
+    }
+  },
+  "labels": {
+    "success_stories": "Sėkmės istorijos",
+    "articles": "Straipsniai"
+  },
+  "hero": {
+    "title": "Lengviausias būdas gauti",
+    "title_span": "kokybiškas paslaugas",
+    "description": "Reikia pagalbos? Naršykite ir užsisakykite paslaugas naudodami „Easy Panda“."
+  },
+  "order_list": {
+    "booking_service": {
+      "title": "Užsisakyti paslaugą",
+      "description": "Pasirinkite paslaugos kategoriją ir pereikite per jos užsakymo procesą."
+    },
+    "know_the_price": {
+      "title": "Sužinokite kainą",
+      "description": "Jums atsakius į tikslingus klausimus galėsime pateikti pasalugos įkainį."
+    },
+    "pick_a_service_provider": {
+      "title": "Išsirinkite paslaugos teikėją",
+      "description": "Pasirinkite jums tinkamiausią paslaugų teikėją ir pradėkite tolimesnį bendravimą."
+    },
+    "play_securely": {
+      "title": "Saugus mokėjimas",
+      "description": "Apmokėkite platformos viduje. Visi mokėjimai turi pinigų grąžinimo garantiją."
+    },
+    "recieve_rate_service": {
+      "title": "Gaukite ir įvertinkite paslaugą",
+      "description": "Gaukite paslaugą ir įvertinkite savo patirtį, kai užsakymas bus baigtas."
+    }
+  },
+  "services_list": {
+    "cleaning": "Valymas",
+    "furniture_assembly": "Baldų surinkimas",
+    "window_repair": "Langų taisymas",
+    "plumbing": "Santechnika",
+    "ventilation_conditioning": "Vėdinimas ir oro kondicionavimas",
+    "electricity": "Elektra",
+    "household_appliances": "Buitinė technika"
+  }
+}

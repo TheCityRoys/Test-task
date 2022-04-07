@@ -1,0 +1,96 @@
+{
+  "footer": {
+    "legal": "JURIDISKĀ INFO",
+    "privacy_policy": "Privātuma politika",
+    "terms_conditions": "Lietošanas noteikumi",
+    "faq": "BUJ",
+    "socials": "SOC. MEDIJI",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "Linkedin",
+    "get_in_touch": "SAZINIES",
+    "copyright": "Copyright © Easypanda.com 2022 | All rights reserved."
+  },
+  "actions": {
+    "register_as_provider": "Kļūt par Pakalpojumu sniedzēju"
+  },
+  "header_spans": {
+    "about": "PAR MUMS",
+    "geography": "BALTIJAS VALSTĪS",
+    "order": "KĀ TAS STRĀDĀ?",
+    "random": "KAPĒC IZMANTOT?"
+  },
+  "header_titles": {
+    "about": "Mēs esam šeit, lai padarītu jūsu dzīvi labāku.",
+    "blog": "Mūsu blogs",
+    "download": "Aplūko un pasūti pakalpojumus ar Easy Panda",
+    "geography": "Easy Panda ir pirmā sadzīves pakalpojumu platforma, kas darbojas visās Baltijas valstīs",
+    "order": "Kā pasūtīt",
+    "providers": "Vairāk darbu, mazāk galvas sāpju. Vēl neesi reģistrējies?",
+    "random": "Easy Panda padara pasūtījumus pārskatāmākus un drošākus.",
+    "services": "Pakalpojumi"
+  },
+  "header_paragraphs": {
+    "about": "Mūsdienās viss ir vien dažu klikšķu attālumā. Neraugoties uz to, kvalitatīva pakalpojumu sniedzēja atrašana mēdz radīt galvassāpes, stundām ilgi sērfojot internetā un lūdzot padomu apkārtējiem. Turklāt, iespējams, pakalpojumu nesaņemsi vēlamajā laikā un ātrumā. Lai to atrisinātu, mēs izveidojām Easy Panda - vienkāršu un uzticamu veidu, kā rūpēties par savu mājokli.",
+    "download": "Tu ne tikai ietaupīsi laiku, ko būtu iztērējis meklējot pakalpojumus internetā, bet arī saņemsi jau pārbaudītus pakalpojumu sniedzējus ar skaidru cenu un viņu pieejamību. Tas viss tikai dažu klikšķu attālumā.",
+    "geography1": "Mūsu mērķis ir sniegt kvalitatīvus un drošus pakalpojumus ikvienai mājsaimniecībai, rokas stiepiena attālumā, lai ikkatrs varētu atpūsties un veltīt laiku lietām, kas dzīvē patiešām ir svarīgas.",
+    "geography2": "Lejuplādē lietotni un apskaties, vai mēs esam pieejami tavā pilsētā. Atver Easy Panda un uzzini, kādus pakalpojumus vari saņemt. Ja vēlies mūs redzēt savā pilsētā, lūdzu, informē mūs par to vai seko mums sociālajos medijos, lai uzzinātu mūsu jaunākos paziņojumus un ziņas.",
+    "order": "Pakalpojumu sniedzēja atrašana Easy Panda ir pilnīgi bez maksas. Ja jums ir jāpaveic kāds darbs, vienkārši izvēlieties pakalpojumu kategoriju, kas atbilst jūsu vajadzībām.",
+    "providers": "Tavam biznesam ir nepieciešams vairāk. Lai palīdzētu tev iegūt vairāk klientu un uzturēt ikdienas darbu kārtībā, mēs piedāvājam mobilo lietotni un administrācijas sistēmu, lai pārvaldītu visus tavus pasūtījumus, maksājumus, rēķinus un darbiniekus.",
+    "random": "Mēs nodrošinām pilnīgu pārskatāmību un drošību pasūtījuma laikā:\n* Cena tiek aprēķināta automātiski\n* Visi mūsu pakalpojumi ir apdrošināti un ar garantiju\n* Pakalpojumu sniedzēji tiek pārbaudīti un ID verificēti\n* Maksājumi ir digitāli un atgriežami"
+  },
+  "blog": {
+    "blog_post_first": {
+      "title": "Kādu grīdas segumu izvēlēties, veicot remontdarbus?",
+      "description": "Ikviens, kurš plāno būvēt, iegādāties vai remontēt savu māju, sastopas ar jautājumiem, kas saistīti ar grīdas seguma labošanu, maiņu un ieklāšanu. "
+    },
+    "blog_post_second": {
+      "title": "Dūmu detektori – kā izvēlēties un uzstādīt?",
+      "description": "Dūmu detektors ir neliela ierīce, kas ar spalgas skaņas signāla palīdzību ziņo, ka tavā mājoklī izveidojies ugunsgrēka radīts sadūmojums."
+    },
+    "blog_post_fifth": {
+      "title": "Populārākās remontdarbu kļūdas, no kurām jāizvairās",
+      "description": "Pašam veicot remontdarbus bez iepriekšējām zināšanām, efektu var pārvērst par defektu, tādējādi krietni pārmaksājot. "
+    }
+  },
+  "labels": {
+    "success_stories": "Veiksmes stāsts",
+    "articles": "Raksts"
+  },
+  "hero": {
+    "title": "Ērtākais veids, kā saņemt",
+    "title_span": "kvalitatīvus pakalpojumus ",
+    "description": "Nepieciešama palīdzība? Lejupielādē lietotni un pasūti pakalpojumus ar Easy Panda."
+  },
+  "order_list": {
+    "booking_service": {
+      "title": "Pasūti pakalpojumu",
+      "description": "Izvēlieties pakalpojuma kategoriju un veic pakalpojuma pasūtīšanas procesu."
+    },
+    "know_the_price": {
+      "title": "Saņem cenu",
+      "description": "Atbildot uz konkrētiem jautājumiem, varēsi saņemt precīzu šī pakalpojuma cenu."
+    },
+    "pick_a_service_provider": {
+      "title": "Izvēlies pakalpojumu sniedzēju",
+      "description": "Izvēlies sev piemērotāko pakalpojumu sniedzēju un uzsāc turpmāku saziņu."
+    },
+    "play_securely": {
+      "title": "Norēķinies droši",
+      "description": "Veic apmaksu par pasūtījumu ērti un droši, jo tas ir aizsargāts ar naudas atgriešanas garantiju."
+    },
+    "recieve_rate_service": {
+      "title": "Saņem un novērtē pakalpojumu",
+      "description": "Saņem pakalpojumu un novērtē savu kopējo pieredzi, kad pasūtījums ir pabeigts."
+    }
+  },
+  "services_list": {
+    "cleaning": "Uzkopšana",
+    "furniture_assembly": "Mēbeļu montāža",
+    "window_repair": "Remontdarbi",
+    "plumbing": "Santehnika",
+    "ventilation_conditioning": "Ventilācija un kondicionēšana",
+    "electricity": "Elektriķis",
+    "household_appliances": "Sadzīves tehnika"
+  }
+}
